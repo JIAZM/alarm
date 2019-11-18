@@ -1,0 +1,60 @@
+.\main.o: ..\USER\main.c
+.\main.o: ..\SYSTEM\sys\sys.h
+.\main.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\main.o: ..\STM32F10x_FWLib\CMSIS\core_cm3.h
+.\main.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\main.o: ..\STM32F10x_FWLib\CMSIS\system_stm32f10x.h
+.\main.o: ..\USER\stm32f10x_conf.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_adc.h
+.\main.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_bkp.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_can.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_cec.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_crc.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dac.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dbgmcu.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dma.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_exti.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_flash.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_fsmc.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_gpio.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_i2c.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_iwdg.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_pwr.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rcc.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rtc.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_sdio.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_spi.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_tim.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_usart.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_wwdg.h
+.\main.o: ..\STM32F10x_FWLib\FWLIB\inc\misc.h
+.\main.o: ..\SYSTEM\delay\delay.h
+.\main.o: ..\SYSTEM\usart\usart.h
+.\main.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\main.o: ..\HARDWARE\LCD\lcd.h
+.\main.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\main.o: ..\HARDWARE\KEY\key.h
+.\main.o: ..\USMART\usmart.h
+.\main.o: ..\USMART\usmart_str.h
+.\main.o: ..\MALLOC\malloc.h
+.\main.o: ..\HARDWARE\SDIO\sdio_sdcard.h
+.\main.o: ..\FATFS\src\ff.h
+.\main.o: ..\FATFS\src\integer.h
+.\main.o: ..\FATFS\src\ffconf.h
+.\main.o: ..\FATFS\exfuns\exfuns.h
+.\main.o: ..\TEXT\text.h
+.\main.o: ..\TEXT\fontupd.h
+.\main.o: ..\PICTURE\piclib.h
+.\main.o: ..\PICTURE\bmp.h
+.\main.o: ..\PICTURE\tjpgd.h
+.\main.o: ..\PICTURE\integer.h
+.\main.o: ..\PICTURE\gif.h
+.\main.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\main.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\main.o: ..\HARDWARE\OV7670\ov7670.h
+.\main.o: ..\HARDWARE\OV7670\sccb.h
+.\main.o: ..\HARDWARE\TIMER\timer.h
+.\main.o: ..\HARDWARE\EXTI\exti.h
+.\main.o: ..\HARDWARE\OUTPUT\output.h
+.\main.o: ..\HARDWARE\RFID\rc522.h

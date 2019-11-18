@@ -1,0 +1,43 @@
+.\fattester.o: ..\FATFS\exfuns\fattester.c
+.\fattester.o: ..\FATFS\exfuns\fattester.h
+.\fattester.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\fattester.o: ..\STM32F10x_FWLib\CMSIS\core_cm3.h
+.\fattester.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\fattester.o: ..\STM32F10x_FWLib\CMSIS\system_stm32f10x.h
+.\fattester.o: ..\USER\stm32f10x_conf.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_adc.h
+.\fattester.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_bkp.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_can.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_cec.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_crc.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dac.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dbgmcu.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dma.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_exti.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_flash.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_fsmc.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_gpio.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_i2c.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_iwdg.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_pwr.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rcc.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rtc.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_sdio.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_spi.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_tim.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_usart.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_wwdg.h
+.\fattester.o: ..\STM32F10x_FWLib\FWLIB\inc\misc.h
+.\fattester.o: ..\FATFS\src\ff.h
+.\fattester.o: ..\FATFS\src\integer.h
+.\fattester.o: ..\FATFS\src\ffconf.h
+.\fattester.o: ..\HARDWARE\SDIO\sdio_sdcard.h
+.\fattester.o: ..\USMART\usmart.h
+.\fattester.o: ..\USMART\usmart_str.h
+.\fattester.o: ..\SYSTEM\usart\usart.h
+.\fattester.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\fattester.o: ..\SYSTEM\sys\sys.h
+.\fattester.o: ..\FATFS\exfuns\exfuns.h
+.\fattester.o: ..\MALLOC\malloc.h
+.\fattester.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,36 @@
+.\w25qxx.o: ..\HARDWARE\W25QXX\w25qxx.c
+.\w25qxx.o: ..\HARDWARE\W25QXX\w25qxx.h
+.\w25qxx.o: ..\SYSTEM\sys\sys.h
+.\w25qxx.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\w25qxx.o: ..\STM32F10x_FWLib\CMSIS\core_cm3.h
+.\w25qxx.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\w25qxx.o: ..\STM32F10x_FWLib\CMSIS\system_stm32f10x.h
+.\w25qxx.o: ..\USER\stm32f10x_conf.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_adc.h
+.\w25qxx.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_bkp.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_can.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_cec.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_crc.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dac.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dbgmcu.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dma.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_exti.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_flash.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_fsmc.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_gpio.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_i2c.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_iwdg.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_pwr.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rcc.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rtc.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_sdio.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_spi.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_tim.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_usart.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_wwdg.h
+.\w25qxx.o: ..\STM32F10x_FWLib\FWLIB\inc\misc.h
+.\w25qxx.o: ..\HARDWARE\SPI\spi.h
+.\w25qxx.o: ..\SYSTEM\delay\delay.h
+.\w25qxx.o: ..\SYSTEM\usart\usart.h
+.\w25qxx.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

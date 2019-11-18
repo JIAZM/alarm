@@ -1,0 +1,44 @@
+.\bmp.o: ..\PICTURE\bmp.c
+.\bmp.o: ..\PICTURE\piclib.h
+.\bmp.o: ..\SYSTEM\sys\sys.h
+.\bmp.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\bmp.o: ..\STM32F10x_FWLib\CMSIS\core_cm3.h
+.\bmp.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\bmp.o: ..\STM32F10x_FWLib\CMSIS\system_stm32f10x.h
+.\bmp.o: ..\USER\stm32f10x_conf.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_adc.h
+.\bmp.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_bkp.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_can.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_cec.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_crc.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dac.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dbgmcu.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dma.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_exti.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_flash.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_fsmc.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_gpio.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_i2c.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_iwdg.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_pwr.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rcc.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rtc.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_sdio.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_spi.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_tim.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_usart.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_wwdg.h
+.\bmp.o: ..\STM32F10x_FWLib\FWLIB\inc\misc.h
+.\bmp.o: ..\HARDWARE\LCD\lcd.h
+.\bmp.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\bmp.o: ..\MALLOC\malloc.h
+.\bmp.o: ..\FATFS\src\ff.h
+.\bmp.o: ..\FATFS\src\integer.h
+.\bmp.o: ..\FATFS\src\ffconf.h
+.\bmp.o: ..\FATFS\exfuns\exfuns.h
+.\bmp.o: ..\PICTURE\bmp.h
+.\bmp.o: ..\PICTURE\tjpgd.h
+.\bmp.o: ..\PICTURE\integer.h
+.\bmp.o: ..\PICTURE\gif.h
+.\bmp.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\string.h

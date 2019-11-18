@@ -1,0 +1,35 @@
+.\tpad.o: ..\HARDWARE\TPAD\tpad.c
+.\tpad.o: ..\HARDWARE\TPAD\tpad.h
+.\tpad.o: ..\SYSTEM\sys\sys.h
+.\tpad.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\tpad.o: ..\STM32F10x_FWLib\CMSIS\core_cm3.h
+.\tpad.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\tpad.o: ..\STM32F10x_FWLib\CMSIS\system_stm32f10x.h
+.\tpad.o: ..\USER\stm32f10x_conf.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_adc.h
+.\tpad.o: ..\STM32F10x_FWLib\CMSIS\stm32f10x.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_bkp.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_can.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_cec.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_crc.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dac.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dbgmcu.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_dma.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_exti.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_flash.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_fsmc.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_gpio.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_i2c.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_iwdg.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_pwr.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rcc.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_rtc.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_sdio.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_spi.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_tim.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_usart.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\stm32f10x_wwdg.h
+.\tpad.o: ..\STM32F10x_FWLib\FWLIB\inc\misc.h
+.\tpad.o: ..\SYSTEM\delay\delay.h
+.\tpad.o: ..\SYSTEM\usart\usart.h
+.\tpad.o: E:\KEIL  5\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
